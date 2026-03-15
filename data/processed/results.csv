@@ -1,0 +1,5 @@
+Method,Dataset,MAE,MedAE,Acc@10%,Acc@20%,Acc@30%
+Baseline A (Median),Nutrition5k-test,162.22,144.14,10.2,21.5,31.1
+Baseline B (TF-IDF+Ridge),Nutrition5k-test,109.3,83.27,19.0,35.7,49.9
+LLM (direct total calories),Nutrition5k-test,181.35,146.06,10.9,20.6,30.3
+LLM (ingredients->total calories),Nutrition5k-test,270.69,205.47,7.0,14.6,22.7

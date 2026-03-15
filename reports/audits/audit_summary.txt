@@ -1,0 +1,50 @@
+DATA AUDIT SUMMARY
+
+NUTRITION5K DATASET
+-------------------
+rows: 2264
+missing_title: 0
+
+TOTAL CALORIES
+calories_count: 2264
+calories_min: 30.139999
+calories_mean: 313.31077121422254
+calories_median: 280.5615085
+calories_max: 1324.084961
+
+TITLE LENGTH (chars)
+title_len_min: 3
+title_len_median: 35.0
+title_len_mean: 36.52871024734982
+title_len_max: 76
+
+WORD COUNT
+word_count_min: 1
+word_count_median: 6.0
+word_count_mean: 5.779151943462898
+word_count_max: 12
+one_word_titles: 66
+
+INGREDIENT COUNT (estimated from title)
+ingredient_count_min: 1
+ingredient_count_median: 3.0
+ingredient_count_mean: 3.282685512367491
+ingredient_count_max: 5
+
+FOOD_MASTER DATASET
+-------------------
+rows: 139469
+missing_title: 0
+
+TITLE LENGTH (chars)
+title_len_min: 5
+title_len_median: 30.0
+title_len_mean: 39.49762312772014
+title_len_max: 295
+
+WORD COUNT
+word_count_min: 2
+word_count_median: 5.0
+word_count_mean: 6.276297958686159
+word_count_max: 57
+one_word_titles: 0

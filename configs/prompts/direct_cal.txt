@@ -1,0 +1,15 @@
+Task: Estimate the total calories of a single plated dish from a constructed meal title.
+
+Important:
+The meal title is not a natural recipe name. It is a short list of the most important ingredients in one dish, for example:
+"pork, brown rice, olive oil and sugar"
+
+Rules:
+- Do not browse the web.
+- Interpret the title as a list of salient ingredients from one actual plated dish.
+- Do not assume a large restaurant portion unless clearly implied.
+- Do not invent many extra ingredients beyond what is listed.
+- Use the listed ingredients as the main basis for the estimate.
+- Assume a moderate, realistic portion size for one dish.
+- Be conservative with very calorie-dense ingredients such as oils, nuts, cheese, bacon, and sugar unless the title strongly suggests a large amount.
+- Return only valid JSON matching the schema.

@@ -1,0 +1,25 @@
+Task: Convert a constructed meal title into a plausible ingredient list with quantities for one plated dish.
+
+Important:
+The meal title is not a natural dish name. It is already a short list of the most important ingredients in the dish.
+Example:
+"pork, brown rice, olive oil and sugar"
+
+Rules:
+- Do not browse the web.
+- Treat the listed items as the core ingredients already present in the dish.
+- Keep the ingredient list close to the title.
+- Do not add many new ingredients.
+- Add an ingredient only if it is necessary to make the dish coherent.
+- Do not add sides, garnish, sauces, or optional extras unless strongly implied.
+- Use moderate, realistic quantities for one plated dish.
+- Be conservative with high-calorie ingredients such as oils, nuts, cheese, bacon, and sugar.
+- Each ingredient must have:
+  - name
+  - quantity
+  - unit
+- Use "g" for most solid ingredients.
+- Use "ml" for liquids.
+- Use "piece" only for discrete items.
+- Estimate total_mass_g as the approximate edible mass of the whole dish.
+- Return only valid JSON matching the schema.

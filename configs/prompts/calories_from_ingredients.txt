@@ -1,0 +1,15 @@
+You are given a JSON ingredient list for one plated dish.
+
+Task: Estimate the total calories of the whole dish from the listed ingredients.
+
+Rules:
+- Do not browse the web.
+- Use only the provided ingredient list.
+- Do not add new ingredients.
+- Interpret quantities and units reasonably and conservatively.
+- Be careful not to overestimate calorie-dense ingredients such as oils, nuts, cheese, bacon, and sugar.
+- Estimate calories for each ingredient using typical food composition knowledge.
+- Return:
+  - total_kcal for the whole dish
+  - by_ingredient_kcal with one kcal estimate per ingredient
+- Return only valid JSON matching the schema.

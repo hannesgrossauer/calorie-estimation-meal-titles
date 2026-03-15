@@ -1,0 +1,1001 @@
+meal_title,pred_calories,total_calories
+"grilled chicken, olives, bell peppers and cherry tomatoes",280.0,309.061981
+"steak, couscous and asparagus",580.0,439.410522
+"tofu, honeydew melons, fish, mushroom and asparagus",328.0,131.041962
+pears and mandarin oranges,180.0,143.062012
+"bacon, pineapple and brussels sprouts",190.0,268.48291
+"pork, olive oil, broccoli and chicken breast",510.0,328.277618
+"egg whites, yam, olive oil, berries and sweet potato",430.0,448.149994
+"olive oil, corn on the cob and fish",360.0,180.938934
+"pizza, chicken, olive oil and tofu",1030.0,815.647644
+"chicken breast, salmon, mayonnaise and pineapple",497.0,491.939545
+"beef, roasted potatoes and pizza",735.0,554.760071
+"cauliflower, eggplant, squash and olive oil",200.0,91.424408
+"pepperoni pizza, olive oil and pineapple",380.0,246.028381
+"fish, tomatoes and broccoli",240.0,76.889999
+"olive oil, arugula, walnuts and kale",260.0,140.562927
+apple,95.0,68.119995
+"pizza, fish, olive oil and green beans",514.0,397.013336
+"almonds, brussels sprouts and cauliflower",165.0,349.220032
+pizza and chicken,440.0,495.910278
+"pineapple, watermelon and berries",200.0,129.01001
+"olive oil, bok choy and cauliflower",170.0,82.590729
+"pork, roasted potatoes, caesar salad and sugar",686.0,422.399261
+avocado and olives,170.0,129.820007
+"avocado, olive oil, fish, cauliflower and white beans",540.0,333.108673
+"fish, wheat berry, olive oil, carrot and white beans",550.0,431.635803
+pork and pasta salad,500.0,581.508667
+"chia seeds, egg whites, greek yogurt, milk and broccoli",300.0,246.650803
+"tortilla, chicken and olives",410.0,369.660004
+"sausage, scrambled eggs and potatoes",560.0,645.002014
+caesar salad,300.0,104.279999
+almonds,160.0,739.968018
+"cheese pizza, chicken, beef and roasted potatoes",825.0,522.154663
+"chicken, olive oil, kale and parmesan cheese",385.0,156.428101
+scrambled eggs and pineapple,206.0,158.820007
+"carrot, broccoli and olive oil",200.0,50.428173
+"salmon, olive oil, bok choy, cauliflower and brown rice",660.0,183.993713
+pepperoni and sandwiches,300.0,585.302002
+"apple, cantaloupe and bell peppers",175.0,74.440002
+pepperoni pizza,1800.0,305.828583
+"chicken, ham and corn",360.0,259.779999
+"chicken apple sausage, roasted potatoes, berries, egg whites and grapes",470.0,309.110748
+"olive oil, honeydew melons, green beans and pumpkin seeds",280.0,115.100845
+"olive oil, broccoli, mixed greens and eggplant",225.0,108.642006
+"broccoli, sweet potato, granola and vinaigrette",455.0,208.233551
+"cheese pizza, beef, chicken thighs and roasted potatoes",900.0,539.864685
+"chicken, olive oil, avocado and bulgur",577.0,581.253052
+"olive oil, pumpkin seeds, arugula and mixed greens",290.0,69.12085
+"pears, potatoes and strawberries",310.0,176.140015
+"pork, white rice and olive oil",555.0,196.840424
+"scrambled eggs, egg whites, chicken apple sausage and sweet potato",420.0,243.093658
+"apple, grapes and cherry tomatoes",226.0,151.999985
+"cheese pizza, beef, chicken thighs, roasted potatoes and caesar salad",1060.0,586.944702
+"chicken, olive oil and spinach (raw)",320.0,329.716248
+scrambled eggs and strawberries,193.0,217.139999
+"cheese pizza, olive oil and figs",880.0,230.333145
+"chicken, caesar salad, olive oil, millet and green beans",670.0,269.916046
+beef and white rice,490.0,256.73999
+"olive oil, asparagus and spinach (raw)",150.0,69.738571
+"eggs, bacon and carrot",260.0,432.125
+"olive oil, cauliflower, mixed greens and millet",360.0,89.10878
+scrambled eggs and cantaloupe,198.0,168.580002
+"chicken apple sausage, grapes, roasted potatoes, watermelon and strawberries",530.0,235.820007
+"chicken, olive oil, tofu, honeydew melons and fish",450.0,291.633301
+"pizza, walnuts, grilled chicken and olive oil",825.0,767.469849
+roasted potatoes and scrambled eggs,370.0,320.100006
+"olive oil, asparagus, arugula and walnuts",240.0,58.741066
+"chicken, tuna and olives",300.0,550.009949
+"onions, broccoli, squash, cucumbers and zucchini",85.0,49.230003
+"cheese pizza, beef, parmesan cheese, roasted potatoes and olives",740.0,367.885284
+"scrambled eggs, chicken apple sausage, berries and yam",460.0,556.563965
+"olive oil, walnuts and blue cheese",405.0,102.338257
+"avocado, kale and chard",160.0,65.480003
+asparagus,30.0,678.096008
+olives and cherry tomatoes,85.0,36.809998
+"cheese pizza, tofu and cauliflower",430.0,404.963837
+"steak, roasted potatoes, olive oil and broccoli",660.0,360.182037
+"salmon, beef, mayonnaise, olive oil and broccoli",635.0,530.596924
+cantaloupe,54.0,31.280001
+"cheese pizza, beef, chicken thighs and roasted potatoes",850.0,520.864685
+"salmon, avocado, beef and quinoa",772.0,582.370361
+"tortilla, ham and bell peppers",250.0,140.180008
+"chicken breast, cheese pizza and tuna",572.0,582.0
+"quinoa, pork, pizza and olive oil",720.0,550.827515
+"salmon, avocado, beef and quinoa",730.0,637.806702
+chicken and cheese pizza,330.0,197.121201
+"beef, bell peppers and carrot",385.0,116.589996
+"chicken, kale and parmesan cheese",267.0,97.600792
+"sausage, scrambled eggs and ham",330.0,475.442017
+"almonds, sausage and grapes",530.0,888.22998
+"cauliflower, onions, bell peppers and cherry tomatoes",140.0,69.200005
+"quinoa, pineapple and olive oil",382.0,93.436127
+chicken and olives,270.0,480.779968
+"sausage, almonds and grapes",384.0,342.388
+grilled chicken and olives,270.0,454.046021
+"pork, olive oil and quinoa",570.0,510.05069
+grapes and cereal,220.0,45.019997
+grapes and mandarin oranges,150.0,83.449997
+"potato chips, bacon and brussels sprouts",335.0,171.980011
+"pork, olive oil and brown rice",565.0,143.540421
+"salmon, chicken thighs, olive oil, cheese and tortilla",767.0,432.267029
+"olive oil, spinach (raw) and sun dried tomatoes",240.0,74.564041
+"corn on the cob, cheese pizza, chicken, olive oil and pork",810.0,539.63855
+chia seeds,120.0,792.179993
+"corn on the cob, tofu and olive oil",334.0,158.395508
+bacon and steak,510.0,444.01001
+"orange, corn and lemon",170.0,88.620003
+"beef, olive oil, walnuts and blue cheese",750.0,220.200867
+"steak, chicken thighs and broccoli",550.0,548.106018
+pizza and caesar salad,560.0,184.080002
+"chicken apple sausage, yam, sweet potato and blackberries",370.0,163.423492
+"beef, roasted potatoes and cauliflower",450.0,212.034836
+"cheese pizza, white rice, mushroom, brussels sprouts and squash",545.0,321.590912
+"fish, pork, country rice, olive oil and asparagus",600.0,333.635681
+bacon and strawberries,180.0,142.579987
+"sweet potato, olive oil and brussels sprouts",330.0,173.432449
+"egg whites, sweet potato, bacon and olive oil",320.0,226.744873
+cheese pizza and caesar salad,850.0,140.106995
+"ground turkey, corn on the cob, fish and olive oil",510.0,272.315186
+"tuna salad, fried rice and avocado",630.0,716.47937
+almonds,164.0,552.490051
+"berries, cantaloupe and watermelon",170.0,51.919998
+"noodles, bell peppers and carrot",395.0,61.390003
+"pizza, beef, olive oil and berries",850.0,384.426239
+"egg whites, yam, olive oil, sweet potato and cantaloupe",420.0,244.565094
+"chicken, olives, kale, parmesan cheese and kimchi",320.0,191.507187
+"scrambled eggs, corn and brussels sprouts",360.0,170.399994
+"olives, broccoli and cauliflower",100.0,104.299995
+"salmon, brownies, beef and pasta",800.0,990.400024
+cookies,320.0,250.919998
+mixed greens and onions,40.0,31.48
+chicken and goat cheese,290.0,504.400024
+"pears, grapes and broccoli",260.0,175.162018
+pizza and corn on the cob,380.0,131.804001
+"chicken, white rice and olive oil",510.0,258.382751
+"chicken, roasted potatoes and olive oil",510.0,168.964127
+"scrambled eggs, shrimp and cantaloupe",357.0,145.819992
+"pork, olive oil, broccoli and black beans",500.0,418.152008
+sausage and scrambled eggs,370.0,557.884033
+"banana, apple and orange",262.0,173.87999
+"pepperoni pizza, roasted potatoes, caesar salad and broccoli",740.0,291.190002
+"sausage, hash browns and egg whites",370.0,699.382019
+"bulgur, pork, olive oil, cauliflower and chicken breast",532.0,432.244263
+"cheese pizza, roasted potatoes and chicken thighs",700.0,317.785828
+"beef, olive oil and roasted potatoes",540.0,451.546997
+"bacon, broccoli, granola and olive oil",395.0,260.530609
+chicken and cauliflower,260.0,279.899994
+"scrambled eggs, bacon and green beans",270.0,570.884766
+"hash browns, scrambled eggs and brussels sprouts",450.0,484.807251
+"almonds, honeydew melons and brussels sprouts",210.0,554.059021
+"honeydew melons, brussels sprouts and broccoli",133.0,138.360001
+"olive oil, green beans, mixed greens and millet",375.0,100.570984
+"lentils, steak, olive oil and chickpeas",650.0,251.781372
+"sausage, bacon and almonds",370.0,540.89801
+"salmon, olive oil, broccoli, brown rice and brussels sprouts",534.0,366.579254
+"olive oil, bulgur, brussels sprouts, kale and parmesan cheese",406.0,226.000137
+"almonds, corn on the cob and cherry tomatoes",294.0,254.130997
+"olive oil, tofu, arugula and walnuts",420.0,149.125931
+"fish, roasted potatoes, olive oil and quinoa",480.0,356.387299
+"salmon, mayonnaise, olive oil, brussels sprouts and lentils",670.0,775.029236
+"chicken, artichokes, lettuce and broccoli",347.0,443.199982
+"cheese pizza, pineapple, squash, quinoa and olive oil",592.0,290.692169
+pepperoni pizza and roasted potatoes,550.0,359.408569
+"cheese pizza, beef, chicken, fried rice and caesar salad",1075.0,608.104553
+"sweet potato, olive oil and broccoli",290.0,126.574638
+"couscous, fish, olive oil and corn",510.0,278.261444
+"quinoa, pork and cauliflower",480.0,380.679993
+"kiwi, tofu and cauliflower",280.0,113.979996
+brussels sprouts,55.0,50.740002
+sausage and roasted potatoes,500.0,335.363983
+scrambled eggs,144.0,198.320007
+"bean(seed), cauliflower and mushroom",205.0,121.860001
+"tortilla, brussels sprouts and broccoli",250.0,87.440002
+"cheese pizza, chicken, caesar salad, steak and pineapple",965.0,369.359955
+"egg whites, sweet potato, watermelon, grapes and olive oil",318.0,428.59549
+"ground turkey, corn on the cob and cheese pizza",1060.0,604.323303
+"pineapple, orange and lemon",153.0,59.959999
+brussels sprouts and olive oil,176.0,40.848213
+"salmon, chicken, olive oil and brown rice",640.0,639.911865
+"olive oil, scrambled eggs, yam, pineapple and watermelon",414.0,197.377884
+egg whites and watermelon,110.0,228.659988
+"chicken, olive oil and arugula",316.0,230.61496
+"pizza, fish, olive oil, white rice and country rice",580.0,314.77124
+"bacon, sausage and pineapple",322.0,371.862915
+"nuts, potato chips and cantaloupe",370.0,291.940002
+"bell peppers, onions, carrot and cherry tomatoes",120.0,80.309998
+"bean(seed), kiwi and lemon",168.0,132.080002
+fried rice,450.0,157.699997
+"tofu, fish, carrot and olive oil",420.0,147.410431
+"grilled chicken, olive oil, carrot and bell peppers",370.0,640.137939
+"berries, pineapple, cantaloupe and watermelon",95.0,66.419998
+cheese pizza and olive oil,330.0,219.813263
+"white rice, chicken thighs, olive oil and brussels sprouts",600.0,263.816223
+"corn on the cob, apple, brussels sprouts and carrot",253.0,278.307007
+"oatmeal, berries and lemon",195.0,128.259995
+cheese pizza and chicken,470.0,220.774597
+"eggs, strawberries, carrot and garden salad",230.0,172.004013
+"turkey bacon, berries and olive oil",260.0,220.425598
+steak and olive oil,550.0,591.435242
+"salmon, tofu, brussels sprouts and brown rice",580.0,265.507263
+"bacon, scrambled eggs, olive oil, yam and sweet potato",450.0,402.984802
+"pork, olive oil and chicken breast",480.0,298.877594
+"sausage, strawberries and broccoli",335.0,208.746002
+"scrambled eggs, bagels, hash browns and cream cheese",760.0,445.299988
+"beef, white rice and broccoli",510.0,253.049988
+"cheese pizza, beef, parmesan cheese, roasted potatoes and olives",705.0,374.54538
+"tempeh, olive oil and chickpeas",470.0,479.757751
+"chicken, olive oil and brown rice",504.0,263.125488
+mandarin oranges and strawberries,140.0,53.5
+"cheese pizza, beef, parmesan cheese, roasted potatoes and olives",760.0,330.456177
+"sausage, berries and broccoli",215.0,452.588013
+"turkey bacon, roasted potatoes and honeydew melons",310.0,336.945984
+"pears, garden salad and carrot",175.0,163.716354
+"pork, fish, olive oil and country rice",560.0,739.376465
+"scrambled eggs, potato chips and cauliflower",355.0,269.530029
+egg whites and olive oil,91.0,190.807861
+eggs and olive oil,263.0,296.926727
+"chia seeds, sweet potato, egg whites, berries and greek yogurt",380.0,308.372284
+"olive oil, fish, brussels sprouts, arugula and walnuts",510.0,236.805176
+"bulgur, tofu, olive oil, carrot and broccoli",444.0,390.254456
+"chicken thighs, cheese, salmon and tortilla",600.0,848.655762
+pizza,800.0,290.348022
+"waffles, sausage, tofu and egg whites",441.0,481.503418
+"pork, broccoli and white rice",500.0,252.792709
+"carrot, cauliflower and olive oil",170.0,98.490021
+"pizza, olive oil, corn on the cob and fish",660.0,457.578918
+"pork, white rice, corn on the cob, fish and olive oil",730.0,529.483459
+"olive oil, arugula, walnuts and spinach (raw)",235.0,37.094574
+"pizza, fish, olive oil and quinoa",580.0,319.233582
+"scrambled eggs, pineapple, watermelon and honeydew melons",207.0,112.660004
+"eggplant, squash and olive oil",180.0,57.924408
+"fish, olive oil, quinoa, country rice and bulgur",420.0,492.683044
+"scrambled eggs, sausage and berries",334.0,401.494019
+"pork, chicken, caesar salad and sugar",570.0,577.184631
+"chicken, roasted potatoes and fish",520.0,728.810608
+"sweet potato, cantaloupe and olive oil",268.0,103.048294
+"apple, potatoes and bell peppers",265.0,218.110001
+"scrambled eggs, yam and strawberries",387.0,265.871002
+pasta salad,350.0,229.710007
+"egg whites, turkey bacon, yam, olive oil and sweet potato",420.0,293.797668
+grilled chicken and olives,320.0,362.641998
+"fish, caesar salad, olive oil, white rice and ketchup",720.0,107.856659
+"cheese pizza, roasted potatoes, chicken, tofu and olive oil",780.0,308.891754
+"chicken breast, white rice and broccoli",450.0,403.786346
+"bacon, scrambled eggs and garden salad",304.0,398.063995
+grapefruit juice,100.0,94.527
+"egg whites, sweet potato, olive oil and broccoli",336.0,435.97464
+"chicken, pork and olive oil",470.0,280.443024
+"bacon, sweet potato and strawberries",230.0,206.369995
+"scrambled eggs, bacon, olive oil and berries",310.0,500.114899
+chicken,187.0,342.850006
+"fish, olive oil, lentils, cauliflower and squash",475.0,245.385895
+"sausage, scrambled eggs, roasted potatoes and olive oil",664.0,607.267273
+"apple, cantaloupe and orange",210.0,68.729996
+chicken apple sausage and roasted potatoes,580.0,137.569992
+grapes and cantaloupe,160.0,48.800003
+"turkey bacon, scrambled eggs and roasted potatoes",420.0,499.745972
+"tuna salad, avocado and carrot",338.0,530.393372
+roasted potatoes and cauliflower,350.0,228.459991
+"scrambled eggs, bacon and berries",340.0,357.809998
+tortilla and corn,185.0,135.752014
+"vegetable oil, chicken, bacon, olive oil and flour",510.0,796.922119
+"olive oil, pineapple, rice noodles and spinach (raw)",375.0,153.099411
+pizza and olive oil,320.0,718.957397
+"salmon, chicken, chicken salad and olive oil",642.0,909.629578
+oatmeal,150.0,48.959999
+"chicken breast, fish, carrot, olive oil and olives",450.0,364.234009
+noodles,250.0,40.02
+"wheat berry, carrot and olive oil",365.0,154.358154
+chicken apple sausage,200.0,195.199997
+"cheese pizza, beef, white rice and pineapple",685.0,542.496338
+"beef, pizza and olive oil",1000.0,557.87146
+"olive oil, broccoli, spinach (raw) and sun dried tomatoes",260.0,129.120743
+"hash browns, sweet potato, egg whites, berries and broccoli",390.0,292.040009
+"beef, olive oil, figs and arugula",480.0,544.310486
+"pork, olive oil, rice noodles and sugar",630.0,511.673645
+bagels,275.0,242.5
+bean(seed),200.0,98.0
+"olive oil, chickpeas and arugula",400.0,203.66246
+"sweet potato, egg whites and brussels sprouts",245.0,114.217117
+"pork, pepperoni pizza and caesar salad",810.0,491.235168
+"walnuts, grilled chicken and olive oil",320.0,538.709778
+"vegetable oil, chicken, bacon and flour",450.0,798.913696
+"sweet potato, chicken apple sausage and olive oil",440.0,135.37854
+"chicken, olive oil, broccoli and fish",380.0,313.761383
+"salmon, mayonnaise, olive oil and lentils",655.0,327.810303
+"bacon, roasted potatoes, berries and watermelon",380.0,229.490005
+cottage cheese and pineapple,288.0,216.540009
+"steak, asparagus and wheat berry",590.0,334.130554
+"pork, sugar, caesar salad and white rice",660.0,919.097168
+pizza and chicken,420.0,479.689514
+lentils,230.0,92.339996
+cauliflower,100.0,30.25
+"chicken apple sausage, egg whites, sweet potato and olive oil",491.0,231.959991
+"egg whites, sweet potato, berries and olive oil",320.0,234.606583
+"oatmeal, lemon and asparagus",175.0,122.933998
+steak and chicken,470.0,700.530396
+bagels and cream cheese,390.0,334.800018
+"olive oil, roasted potatoes, green beans, arugula and pecans",416.0,247.482193
+"salmon, olive oil and brown rice",625.0,300.077911
+pizza and olive oil,330.0,360.832489
+kiwi and tofu,160.0,99.278
+"egg whites, yam, olive oil, sweet potato and pineapple",391.0,269.565094
+scrambled eggs and bacon,270.0,302.431702
+"pears, grapes and mandarin oranges",300.0,189.292007
+"almonds, potatoes and mandarin oranges",326.0,302.425995
+eggplant and olive oil,170.0,31.990978
+"chicken, avocado, olives, tomatoes and broccoli",424.0,356.629974
+"noodles, cauliflower and mushroom",400.0,82.379997
+"olive oil, berries and pineapple",192.0,131.250626
+"roasted potatoes, pineapple, egg whites and berries",370.0,282.539978
+"chicken, cheese and lemon",306.0,156.169998
+"roasted potatoes, kale and parmesan cheese",320.0,190.950912
+"beef, olive oil and chickpeas",495.0,674.73053
+"berries, pineapple, broccoli and olive oil",265.0,109.061714
+"scrambled eggs, granola, brussels sprouts and vinaigrette",510.0,346.819672
+"scrambled eggs, yam, olive oil and sweet potato",428.0,249.919525
+"olive oil, bulgur, kale and mustard greens",330.0,127.493019
+"chicken, pasta, pesto, wheat berry and caesar salad",900.0,203.281494
+"pears, potatoes, mandarin oranges and strawberries",380.0,222.152008
+"steak, olive oil, carrot and broccoli",624.0,543.92334
+"olive oil, chicken, olives, parmesan cheese and avocado",520.0,751.383057
+banana with peel,135.0,68.944
+"bell peppers, carrot and cherry tomatoes",90.0,48.860001
+"berries, granola, honeydew melons, cantaloupe and vinaigrette",280.0,91.26532
+"salmon, olive oil, kale, parmesan cheese and brown rice",685.0,386.199768
+pizza and fish,430.0,408.523132
+"avocado, ham and brussels sprouts",350.0,199.589996
+"cheese pizza, chicken, roasted potatoes and caesar salad",780.0,605.871704
+"chicken, olives, parmesan cheese and broccoli",302.0,406.473999
+"fish, roasted potatoes, olive oil and quinoa",550.0,369.527283
+"olive oil, honeydew melons, asparagus and spinach (raw)",210.0,92.058571
+"chicken, couscous, olive oil and carrot",463.0,127.826668
+"chicken breast, pepperoni pizza and brown rice",595.0,465.47464
+"tofu, honeydew melons, olive oil, fish and mushroom",480.0,157.99173
+"chicken thighs, cheese, tortilla, caesar salad and olive oil",860.0,358.001984
+"cheese pizza, roasted potatoes, pork and caesar salad",930.0,265.072388
+sausage and egg whites,250.0,256.865997
+chicken and white rice,392.0,44.347641
+"white rice, salmon, beef, olive oil and pasta",603.0,307.868378
+berries and watermelon,160.0,58.5
+"chicken, olives, bell peppers and carrot",285.0,430.269989
+"scrambled eggs, bacon, chicken apple sausage and olive oil",430.0,645.762329
+"beef, cauliflower and tofu",450.0,321.025208
+"steak, olive oil, walnuts and blue cheese",737.0,770.448853
+"bacon, berries, sweet potato and olive oil",420.0,175.259506
+"wild rice, olive oil, green beans and mixed greens",344.0,122.274002
+"steak, olive oil and carrot",500.0,511.373352
+"corn on the cob, apple, cherry tomatoes and cauliflower",224.0,228.899994
+"couscous, turnips, broccoli and olive oil",387.0,111.319603
+"succotash, berries, granola, honeydew melons and cantaloupe",450.0,174.425323
+bagels and apple,375.0,300.100006
+"beef, quinoa, olive oil and brown rice",551.0,372.112732
+corn,150.0,41.279999
+"salmon, olive oil, broccoli and brown rice",683.0,330.527924
+"bread, cheese and ham",420.0,445.798035
+"pork, sugar and white rice",450.0,342.213593
+"olive oil, chicken, olives, parmesan cheese and black beans",505.0,774.291992
+"egg whites, berries, grapes, pineapple and honeydew melons",210.0,380.799988
+"berries, olive oil and bok choy",220.0,68.545609
+berries and banana,175.0,115.450005
+"cheese pizza, chicken, beef, roasted potatoes and olive oil",920.0,388.406616
+"fish, caesar salad and eggplant",510.0,61.883999
+"beef, kale, green beans, olive oil and chard",515.0,214.544357
+pears,100.0,116.116005
+"cottage cheese, egg whites, yam, pineapple and olive oil",491.0,411.686035
+"brussels sprouts, bell peppers and mushroom",170.0,61.920002
+"cheese pizza, chicken, beef, pineapple and roasted potatoes",870.0,436.406616
+cod and mixed greens,150.0,90.271996
+"beef, caesar salad and white rice",750.0,296.240448
+"chilaquiles, roasted potatoes and turkey bacon",620.0,636.131958
+berries and cantaloupe,130.0,39.93
+"roasted potatoes, brussels sprouts, turnips and olive oil",300.0,208.098145
+"lentils, olive oil and chickpeas",370.0,170.615997
+"grapes, apple and cantaloupe",253.0,190.009995
+"granola, watermelon, vinaigrette, berries and mixed greens",320.0,128.928864
+"apple, noodles and cauliflower",320.0,149.559998
+greek salad and olive oil,330.0,138.336395
+steak and chicken,510.0,907.119995
+"pizza, fish, roasted potatoes and olive oil",700.0,365.76358
+"apple, carrot and cherry tomatoes",150.0,96.62999
+"sausage, potato chips and berries",435.0,507.481995
+"chicken, olives, parmesan cheese, avocado and broccoli",450.0,459.663025
+"sausage, eggs, bacon and olive oil",364.0,705.734741
+"fish, olive oil and wheat berry",410.0,166.137466
+"cheese pizza, squash and olive oil",455.0,187.053268
+"scrambled eggs, oatmeal and berries",330.0,211.430008
+pork and olive oil,370.0,474.832947
+"country rice, fish and olive oil",455.0,503.60022
+"apple, cantaloupe, carrot and corn on the cob",264.0,156.049011
+"chicken breast, parmesan cheese, kale and squash",320.0,118.031128
+"fish, mushroom, olive oil and wheat berry",380.0,84.662781
+"corn on the cob, fish, olive oil and wheat berry",430.0,244.986359
+tortilla and fish,180.0,118.559998
+"pizza, salmon and olive oil",670.0,627.65625
+"pizza, chicken and country rice",670.0,603.858704
+"scrambled eggs, berries, olive oil, yam and sweet potato",424.0,363.658203
+"fried rice, chicken, olive oil and fish",480.0,648.180298
+"cheese pizza, chicken thighs and olive oil",634.0,271.641266
+chicken and pineapple,320.0,182.169998
+"tofu, honeydew melons, fish, cherry tomatoes and country rice",490.0,108.409973
+"salmon, olive oil and brown rice",623.0,786.212585
+olives,70.0,74.75
+"chicken thighs, olive oil, broccoli and bulgur",600.0,416.196686
+"cheese pizza, chicken breast and olive oil",606.0,601.348572
+yogurt and berries,210.0,194.141998
+"pork, white rice, potatoes, croutons and olive oil",700.0,661.441162
+"olives, bell peppers and carrot",110.0,109.659996
+"corn on the cob, apple, white rice and cauliflower",410.0,220.253998
+avocado,240.0,144.0
+"fish, cheese pizza, cookies, olive oil and white beans",740.0,528.042908
+"bacon, yam and olive oil",426.0,301.606934
+"scrambled eggs, bacon, olive oil and broccoli",330.0,643.618408
+"bacon, sausage and turkey bacon",260.0,487.873688
+beef and olive oil,360.0,552.346069
+"grapes, pineapple, strawberries and watermelon",136.0,146.979996
+honeydew melons and cherry tomatoes,90.0,39.600002
+"chicken thighs, olive oil and pineapple",570.0,324.978424
+"cheese pizza, fried rice and olive oil",650.0,544.311523
+"fried rice, olive oil and green beans",420.0,310.31958
+"walnuts, grilled chicken and olive oil",490.0,518.591736
+"cheese pizza, pasta, olive oil, broccoli and pesto",820.0,417.185303
+roasted potatoes and caesar salad,500.0,139.970001
+"beef, caesar salad and cheese pizza",730.0,406.821747
+frozen yogurt,180.0,179.630005
+"olive oil, fish, wheat berry, white rice and ketchup",500.0,556.494568
+"bagels, cream cheese and mozzarella cheese",460.0,384.175995
+"scrambled eggs, roasted potatoes, country rice and bacon",520.0,357.669189
+"berries, grapes, pineapple and honeydew melons",160.0,260.679993
+"chicken, vinaigrette and olives",340.0,908.60498
+"beef, white rice and fish",525.0,393.700012
+"brown rice, olive oil and mixed greens",310.0,117.318321
+"olive oil, figs and arugula",200.0,280.281769
+steak and mixed greens,380.0,525.419983
+"roasted potatoes, olive oil, arugula and pecans",380.0,213.994171
+"chicken, parmesan cheese, olives and bell peppers",270.0,543.117004
+"fish, roasted potatoes, olive oil and quinoa",504.0,375.127289
+"olive oil, broccoli and mixed greens",190.0,99.962006
+"cheese pizza, carrot, kale and parmesan cheese",380.0,361.81897
+"olive oil, figs and mustard greens",225.0,67.844879
+grilled chicken and olives,280.0,345.84198
+"chicken, feta cheese, olives and caesar dressing",450.0,616.474976
+"white rice, couscous and carrot",240.0,273.385437
+"pork, green beans and olive oil",360.0,198.970978
+waffles and egg whites,450.0,469.609009
+"chicken breast, quinoa, pineapple and olive oil",570.0,197.301407
+"pepperoni pizza, chicken thighs, roasted potatoes and caesar salad",850.0,440.867065
+"salmon, beef, pasta, pineapple and honeydew melons",660.0,427.446991
+"ham, pineapple and mixed greens",240.0,77.75
+"almonds, mandarin oranges and broccoli",242.0,206.938995
+"tuna, bell peppers and onions",260.0,341.419983
+"bacon, shrimp and cauliflower",270.0,163.649994
+"chicken breast, olive oil and parmesan cheese",422.0,101.702484
+"olive oil, berries, spinach (raw) and almonds",300.0,113.672775
+beef and chicken,480.0,307.264221
+"salmon, chicken, olive oil, kimchi and brown rice",655.0,340.108368
+"roasted potatoes, quinoa and olive oil",385.0,345.14212
+"pork, honeydew melons and olive oil",375.0,349.449951
+"potatoes, broccoli and tomatoes",205.0,94.629997
+"pepperoni pizza, steak and brownies",1020.0,882.837463
+"egg whites, sweet potato, cantaloupe and pineapple",275.0,402.117035
+"scrambled eggs, oatmeal and potatoes",450.0,302.820007
+"pork, squash, olive oil and mayonnaise",510.0,434.877106
+"chicken, olive oil and olives",350.0,625.236877
+"sausage, scrambled eggs, roasted potatoes and olive oil",620.0,587.87616
+"chicken breast, squash and parmesan cheese",270.0,190.057999
+beef and roasted potatoes,520.0,562.043274
+"cheese pizza, beef and quinoa",625.0,450.764099
+"beef, cheese pizza, olive oil, walnuts and broccoli",627.0,504.417786
+chicken apple sausage and grapes,300.0,119.269997
+"chicken apple sausage, yam, olive oil, raspberries and sweet potato",500.0,186.485947
+"olive oil, berries and broccoli",170.0,149.804916
+"pork, olive oil, fish and sugar",440.0,311.986237
+"chicken, roasted potatoes, olives and vinaigrette",501.0,494.797546
+"cheese pizza, beef and parmesan cheese",960.0,261.076172
+"roasted potatoes, granola, berries, cantaloupe and vinaigrette",460.0,164.083557
+"hash browns, scrambled eggs and pineapple",525.0,396.799988
+potato chips and kiwi,194.0,123.020004
+"chicken, olives and avocado",390.0,521.709961
+"cheese pizza, chicken thighs and carrot",535.0,270.70752
+"grapes, white rice and cherry tomatoes",336.0,63.579998
+egg whites and cantaloupe,104.0,137.319992
+pizza and broccoli,350.0,111.020004
+"fish, cheese pizza, olive oil and white beans",1130.0,435.902863
+"cheese pizza, pineapple, squash and olive oil",385.0,232.553268
+"white rice, tofu and lemon",340.0,76.48999
+"cheese pizza, corn on the cob, pasta, pesto and caesar salad",975.0,443.77182
+"eggs, yam and strawberries",360.0,330.152985
+"salmon, brownies and brown rice",650.0,686.97113
+corn on the cob,90.0,51.988998
+"almonds, bacon and granola",430.0,557.728821
+"fish, tortilla and bell peppers",210.0,196.180008
+"scrambled eggs, bacon, roasted potatoes and berries",480.0,386.369995
+"sweet potato, egg whites and berries",203.0,134.01001
+"bacon, honeydew melons, watermelon and pineapple",180.0,313.079987
+bacon and oatmeal,240.0,190.139999
+"chicken thighs, cheese pizza, wheat berry and caesar salad",820.0,348.272644
+"olives, bell peppers and onions",130.0,75.800003
+"green beans, bok choy and olive oil",185.0,64.216751
+"chicken salad, chickpeas, artichokes and olives",410.0,208.970001
+cheese pizza and chicken thighs,1100.0,463.246582
+"apple, cauliflower and carrot",150.0,105.23999
+nuts and potato chips,330.0,307.040009
+"cheese pizza, tofu and olive oil",405.0,455.506744
+"egg whites, scrambled eggs, sweet potato, watermelon and olive oil",400.0,454.274597
+scrambled eggs and bacon,270.0,638.714844
+"steak, olive oil and broccoli",594.0,504.847656
+"tortilla, broccoli and carrot",210.0,124.5
+"fish, fried rice, country rice, caesar salad and olive oil",910.0,105.605652
+"pork, olive oil, corn on the cob, chicken and sugar",564.0,517.644226
+"eggs, bacon, raspberries and broccoli",350.0,355.25
+eggs and berries,214.0,198.354996
+"scrambled eggs, pineapple, bacon, chia seeds and greek yogurt",454.0,403.477386
+"olive oil, chickpeas and arugula",331.0,70.70092
+"pizza, beef and berries",815.0,311.209167
+chilaquiles,535.0,232.050003
+"bacon, turkey bacon and berries",230.0,273.523987
+"steak, fish, olive oil, ketchup and white rice",730.0,330.840851
+"granola, berries, vinaigrette and mixed greens",350.0,73.083549
+"pork, olive oil, couscous and brussels sprouts",581.0,247.625168
+"ground turkey, corn on the cob, olive oil and fish",520.0,350.788818
+"potato chips, nuts and corn",350.0,275.179993
+"nuts, beef and bell peppers",530.0,370.170013
+"scrambled eggs, roasted potatoes, berries and pineapple",455.0,419.681702
+"sausage, berries and pineapple",350.0,282.382019
+"bacon, sweet potato, cantaloupe and olive oil",400.0,139.558533
+"ground turkey, corn on the cob and cheese pizza",570.0,631.706665
+berries and oatmeal,200.0,284.880005
+"olive oil, pumpkin seeds, arugula and radishes",220.0,57.066452
+ham,130.0,43.5
+mandarin oranges and broccoli,102.0,39.289997
+cantaloupe and caesar salad,300.0,56.760002
+"chicken, olives and avocado",390.0,527.450012
+scrambled eggs and cheese,290.0,472.280975
+"fish, olive oil, cheese pizza, cookies and white beans",794.0,553.040955
+"olive oil, green beans and spinach (raw)",170.0,117.925575
+"olive oil, scrambled eggs, yam, pineapple and watermelon",420.0,198.937866
+almonds and grapes,268.0,331.0
+"fish, olive oil, caesar salad and quinoa",670.0,196.53833
+"cheese pizza, chicken, country rice and caesar salad",850.0,354.596863
+sausage and bacon,300.0,638.257996
+"bulgur, cauliflower, olive oil and chicken breast",442.0,346.339966
+"chicken, cheese pizza, olive oil and broccoli",500.0,287.331848
+"olives, onions, bell peppers, carrot and cherry tomatoes",150.0,111.910004
+potato chips,150.0,96.480003
+"berries, sweet potato, chia seeds, egg whites and bacon",370.0,348.126129
+"corn on the cob, kale and parmesan cheese",160.0,143.991699
+beef and salmon,520.0,370.671448
+"roasted potatoes, olive oil, fish, green beans and eggplant",480.0,313.741882
+pepperoni pizza and broccoli,360.0,162.740005
+grilled chicken and olives,275.0,322.001984
+"olives, onions and cherry tomatoes",100.0,79.220001
+"egg whites, chia seeds, greek yogurt and milk",272.0,183.586426
+"olive oil, fish, quinoa and figs",565.0,165.617737
+cheese pizza and white rice,480.0,245.872986
+"cheese pizza, beef and chicken thighs",665.0,434.854675
+"chicken, olive oil and white rice",510.0,465.58374
+"bread, ham and apple",335.0,212.843994
+"salmon, avocado and beef",508.0,504.709412
+"egg whites, broccoli and olive oil",225.0,100.613655
+"beef, olive oil and wheat berry",570.0,624.236084
+cheese pizza and vinaigrette,360.0,144.255859
+"bacon, banana and potato chips",350.0,213.109985
+"chicken salad, chickpeas and olives",460.0,171.839996
+"chicken, beef and olive oil",460.0,874.46106
+"chicken thighs, tofu and olive oil",385.0,349.866394
+"fish, bread and cauliflower",270.0,187.416
+watermelon,46.0,35.400002
+"chicken, pizza and olive oil",450.0,898.019653
+"beef, olive oil and white rice",540.0,609.333923
+"parmesan cheese, olives and carrot",185.0,279.317993
+"apple, tomatoes and broccoli",172.0,82.099991
+"steak, caesar salad and wheat berry",780.0,894.521667
+steak and olive oil,545.0,367.6474
+"chicken, caesar salad and olive oil",393.0,66.066925
+"scrambled eggs, strawberries and broccoli",260.0,192.519989
+"fish, olive oil, wild rice and corn",450.0,318.821899
+"fish, olive oil and wheat berry",460.0,65.742775
+"bacon, olive oil, scrambled eggs, yam and pineapple",465.0,339.5979
+"beef, kale, chayote squash and zucchini",360.0,222.235489
+"olive oil, tofu, spinach (raw), pumpkin seeds and eggplant",470.0,400.337677
+"olive oil, berries, chicken apple sausage and honeydew melons",390.0,203.221603
+"mandarin oranges, strawberries and broccoli",160.0,64.349998
+"olive oil, lentils, tofu and chickpeas",490.0,506.847046
+"chicken thighs, cheese, sandwiches, tortilla and watermelon",456.0,657.517517
+"scrambled eggs, sausage and egg whites",340.0,450.666016
+"chicken, olives, parmesan cheese and caesar dressing",400.0,560.658997
+"beef, chicken, olives, olive oil and vinaigrette",560.0,447.449249
+"fish, cheese pizza, cookies, olive oil and white beans",740.0,519.542847
+chicken thighs and quinoa,560.0,234.576111
+"grapes, yam, pineapple, olive oil and strawberries",388.0,250.965668
+"sausage, bacon, almonds, grapes and potatoes",620.0,569.807007
+"cheese, bean(seed) and tortilla",450.0,189.799988
+"bagels, berries, sweet potato, chia seeds and egg whites",541.0,561.703552
+"pork, chicken breast, broccoli and olive oil",436.0,419.769562
+oatmeal and blackberries,180.0,154.720001
+"beef, pizza and olive oil",1200.0,537.987976
+"pizza, olive oil and bok choy",830.0,192.370255
+"pizza, salmon and olive oil",920.0,607.506165
+"cheese pizza, chicken thighs and olive oil",520.0,277.531311
+"beef, white rice and broccoli",505.0,434.58316
+pork and olive oil,394.0,188.610443
+"grapes, mandarin oranges and strawberries",175.0,98.959999
+"pork, roasted potatoes, pizza, caesar salad and rice noodles",800.0,663.755798
+"bacon, white rice and corn",369.0,209.309998
+greek salad and olive oil,400.0,107.181221
+"chicken, olive oil and carrot",331.0,509.826233
+quinoa and caesar salad,445.0,302.954895
+"pizza, fish, roasted potatoes, parsnips and olive oil",820.0,412.873596
+roast chicken,350.0,257.255005
+"cheese pizza, beef, chicken and caesar salad",885.0,498.545258
+"berries, cantaloupe and raspberries",150.0,50.0
+"fish, olive oil and white beans",460.0,348.999664
+"steak, pizza, brownies and olive oil",950.0,851.396545
+"chicken, olive oil and avocado",426.0,778.819946
+"chicken, roasted potatoes, eggplant, cauliflower and olive oil",473.0,221.304153
+"olive oil, broccoli and bulgur",324.0,120.636047
+"berries, pineapple, chicken apple sausage, egg whites and yam",450.0,316.239502
+"wild rice, fish, olive oil and corn",470.0,318.333374
+steak,380.0,319.779999
+"grapes, almonds, cantaloupe and corn on the cob",330.0,199.347992
+"white rice, apple and cantaloupe",350.0,157.119995
+cheese pizza and tofu,1100.0,128.312988
+scrambled eggs and cantaloupe,232.0,190.920013
+"roasted potatoes, olives and vinaigrette",340.0,249.067139
+"almonds, cantaloupe and cherry tomatoes",244.0,358.710999
+olive oil and bell peppers,150.0,153.264771
+"scrambled eggs, olive oil and bacon",274.0,490.288025
+potato chips and bacon,240.0,171.550003
+"chicken, caesar salad and olive oil",560.0,296.816895
+"berries, corn and kiwi",200.0,125.389999
+"olive oil, berries, sweet potato and pineapple",330.0,168.576462
+"salmon, beef, olive oil and pasta",710.0,321.230652
+"corn on the cob, green beans and olive oil",264.0,96.261002
+"ground turkey, fish, olive oil and wheat berry",500.0,387.929382
+"sausage, hash browns, egg whites and pineapple",430.0,801.822021
+cheese pizza and white rice,490.0,316.638611
+"nuts, shrimp and broccoli",380.0,372.769989
+"chicken thighs, quinoa, olive oil and fish",576.0,288.703217
+chicken thighs and olive oil,540.0,348.484161
+"salmon, olive oil, broccoli and brown rice",623.0,334.527893
+"salmon, brussels sprouts, brown rice and olive oil",630.0,179.424591
+tortilla and cheese,260.0,217.880005
+"sausage, bacon, potatoes and berries",432.0,663.989319
+"berries, pineapple and asparagus",170.0,100.084
+"salmon, olive oil and brown rice",600.0,523.367859
+"cheese pizza, roasted potatoes and pork",720.0,225.472412
+"chicken, couscous and olive oil",480.0,259.08316
+"cheese pizza, steak, chicken and caesar salad",895.0,499.257019
+olive oil and chickpeas,388.0,113.066399
+"bagels, sweet potato and cream cheese",510.0,268.459991
+berries and pineapple,150.0,103.190002
+"beef, tortilla and noodles",540.0,338.779999
+"beef, potatoes and tomatoes",460.0,159.940002
+"cheese pizza, white rice and squash",570.0,271.34198
+"cheese pizza, chicken thighs and cauliflower",720.0,494.496582
+"wheat berry, salmon, olive oil and bok choy",570.0,205.092285
+"olive oil, chicken, vinaigrette and olives",410.0,1324.084961
+"brussels sprouts, tomatoes and mixed greens",70.0,53.400002
+"olives, carrot and olive oil",220.0,66.128174
+scrambled eggs and brussels sprouts,240.0,262.330139
+"olive oil, chicken, parmesan cheese, avocado and olives",514.0,990.989014
+beef and potatoes,410.0,203.5
+"corn on the cob, apple and cherry tomatoes",210.0,214.931992
+"potatoes, grapes and broccoli",300.0,132.959991
+"steak, pizza and olive oil",620.0,623.007507
+"fish, potatoes and tomatoes",320.0,85.919998
+beef and white rice,520.0,252.680466
+"cottage cheese, pineapple, watermelon and berries",330.0,210.350006
+"yam, bacon, deprecated and honeydew melons",320.0,206.442001
+"scrambled eggs, berries, pineapple, sweet potato and watermelon",435.0,358.947601
+"egg whites, sweet potato, berries, salsa and watermelon",307.0,314.811707
+chicken and olive oil,306.0,40.10693
+"salmon, chicken, tomatoes, olive oil and kimchi",470.0,389.068359
+eggs,144.0,172.604996
+"cheese pizza, beef and olive oil",880.0,504.065033
+"kale, parmesan cheese and caesar dressing",250.0,30.210915
+"chicken, roasted potatoes, quinoa and olive oil",567.0,846.367065
+"scrambled eggs, bacon, olive oil and broccoli",400.0,626.508484
+"cheese, fish and cantaloupe",283.0,217.380005
+"noodles, fish and bell peppers",420.0,134.779999
+pizza and chicken,472.0,927.809998
+olive oil and mixed greens,140.0,30.3396
+"oatmeal, berries and cantaloupe",245.0,173.680008
+"olive oil, fish, bok choy, mushroom and wheat berry",460.0,157.493027
+"fish, broccoli, olive oil, quinoa and squash",445.0,89.85463
+"pork, brown rice, olive oil and sugar",600.0,300.794281
+"brussels sprouts, olive oil, goat cheese and mixed greens",260.0,115.066795
+"bacon, egg whites, granola, brussels sprouts and vinaigrette",380.0,460.42337
+"chicken, fish, roasted potatoes, olive oil and caesar salad",800.0,560.300903
+"beef, carrot and white rice",488.0,574.115173
+"caesar salad, tomatoes and olives",310.0,83.43
+"tuna, olives and carrot",185.0,286.76001
+"nuts, white rice and tofu",490.0,484.329987
+"mandarin oranges, grapes and cereal",220.0,73.110001
+"ground turkey, corn on the cob, fish, kale and olive oil",500.0,411.264465
+olive oil and bacon,190.0,223.888092
+"steak, olive oil and figs",500.0,398.703369
+roasted potatoes,300.0,121.259995
+"turkey bacon, egg whites, granola and brussels sprouts",330.0,402.784088
+cheese pizza,900.0,128.098618
+"fish, olive oil and quinoa",450.0,169.934235
+"pork, tofu and brussels sprouts",480.0,226.547165
+olives and kimchi,110.0,59.200001
+pizza,800.0,188.860001
+"olive oil, corn on the cob, arugula and pecans",323.0,291.838776
+"chicken, pork, corn on the cob and olive oil",600.0,247.168854
+"chicken, fish, olive oil, caesar salad and tomatoes",524.0,485.570892
+"salmon, olive oil, squash and brown rice",680.0,164.010803
+bell peppers and cherry tomatoes,70.0,34.920002
+pepperoni pizza and pork,520.0,428.704285
+"noodles, potatoes and brussels sprouts",520.0,119.019997
+"corn on the cob, olive oil and mixed greens",145.0,95.495369
+"bread, scrambled eggs and oatmeal",450.0,345.671997
+yam and olive oil,300.0,144.716934
+"pepperoni pizza, chicken breast and cherry tomatoes",525.0,720.890137
+"fish, olive oil, carrot and white beans",395.0,249.899155
+"wheat berry, olive oil, broccoli, pecans and raisins",535.0,171.213257
+"beef, roasted potatoes and olive oil",580.0,607.892395
+banana,105.0,48.059998
+"roasted potatoes, olive oil, broccoli and carrot",330.0,143.762177
+tofu and olive oil,230.0,126.965538
+"pepperoni pizza, pork and chicken breast",640.0,512.111267
+"cheese pizza, salmon, tofu, pineapple and brussels sprouts",640.0,323.673248
+"onions, broccoli, radishes, squash and cucumbers",95.0,57.550003
+"chicken, olive oil and mushroom",330.0,434.658997
+chicken and olive oil,307.0,387.798126
+"chicken, olive oil and olives",400.0,613.17688
+pears and potatoes,260.0,208.141998
+"chicken apple sausage, egg whites, grapes, broccoli and olive oil",424.0,178.880737
+"olive oil, chard, almonds and spinach (raw)",256.0,60.97168
+"olive oil, broccoli and mixed greens",170.0,88.315727
+orange,62.0,32.43
+"tofu, oatmeal and kiwi",272.0,104.510002
+"chicken, pork, green beans and olive oil",435.0,303.643036
+"olive oil, fish, green beans, broccoli and wheat berry",588.0,214.780777
+"salmon, vinaigrette, brown rice, olive oil and green beans",655.0,291.914032
+"olives, tofu and broccoli",190.0,90.829994
+"pepperoni pizza, pork, olive oil and pineapple",850.0,455.387939
+"chicken, fried rice, olive oil, brussels sprouts and millet",675.0,453.66507
+"salmon, kale, chard, olive oil and brown rice",608.0,196.84697
+"sandwiches, watermelon and tatsoi",456.0,187.076355
+cheese pizza and chicken thighs,485.0,450.576294
+"ham, potatoes and pineapple",330.0,189.929993
+"egg whites, sweet potato, sausage, cantaloupe and olive oil",480.0,268.829376
+"vegetable oil, chicken, roasted potatoes, fish and brussels sprouts",690.0,712.456421
+"pears, potatoes and mandarin oranges",340.0,236.23201
+"berries, orange and spinach (raw)",160.0,130.919998
+pepperoni pizza and pork,520.0,190.584213
+scrambled eggs and granola,390.0,379.034851
+"tortilla, apple and mushroom",290.0,105.32
+"olive oil, green beans and mushroom",190.0,108.392403
+"cheese pizza, beef, vinaigrette and quinoa",676.0,521.038635
+wheat berry,200.0,124.670006
+"fish, olive oil, corn, caesar salad and sour cream",520.0,427.879974
+chicken thighs and couscous,500.0,245.449509
+"cheese pizza, caesar salad and olive oil",720.0,282.693146
+"salmon, mayonnaise, olive oil, broccoli and lentils",590.0,258.327576
+"cheese pizza, beef and white rice",720.0,495.807739
+"sausage, broccoli and tomatoes",350.0,346.388
+"scrambled eggs, bacon and noodles",424.0,216.590012
+"olive oil, mixed greens, millet and apple",436.0,41.838322
+"almonds, grapes and cantaloupe",281.0,247.070999
+"berries, tofu and asparagus",240.0,61.969997
+olive oil and mixed greens,140.0,56.892494
+"cheese pizza, olive oil and broccoli",830.0,362.154694
+"quinoa, pork and brussels sprouts",505.0,401.729523
+"chicken apple sausage, scrambled eggs and granola",590.0,603.979248
+"cheese pizza, beef, fried rice, chicken and olive oil",1070.0,814.930786
+"cottage cheese, berries and pineapple",280.0,271.540009
+"cheese pizza, greek salad, roasted potatoes and chicken thighs",840.0,512.015808
+almonds and white rice,286.0,781.958008
+"scrambled eggs, bacon and bell peppers",288.0,175.199997
+"tofu, honeydew melons and cherry tomatoes",210.0,77.559998
+"cheese, shrimp and banana",302.0,210.039993
+"egg whites, sausage, yam, olive oil and sweet potato",440.0,348.823059
+"bacon, egg whites and roasted potatoes",415.0,734.269958
+"white rice, olive oil and bulgur",400.0,121.193924
+scrambled eggs and yam,300.0,244.421005
+"nuts, potato chips and cauliflower",345.0,348.470001
+"fish, olive oil, squash and lentils",405.0,128.096802
+beef and roasted potatoes,560.0,453.680054
+"chicken, olive oil and millet",513.0,296.990997
+"chicken, roasted potatoes, fish and caesar salad",750.0,807.416321
+"chicken, parmesan cheese, olives and avocado",385.0,551.702026
+"chicken, broccoli, white rice and squash",540.0,207.814453
+"scrambled eggs, hash browns, olive oil and bacon",512.0,665.237
+waffles and tofu,480.0,263.749023
+"egg whites, sweet potato, cantaloupe and olive oil",376.0,279.328308
+scrambled eggs and brussels sprouts,234.0,141.350006
+pineapple and watermelon,128.0,65.199997
+"chicken, eggplant, olive oil and cream",420.0,354.445312
+"pork, pizza and caesar salad",750.0,470.716644
+chicken and feta cheese,295.0,436.955017
+"salmon, brownies, beef, pasta and cheese pizza",1060.0,1067.511108
+"chicken, parmesan cheese, olives, avocado and caesar dressing",567.0,734.429993
+"scrambled eggs, chicken apple sausage and olive oil",410.0,613.592834
+"olive oil, chicken, millet and spinach (raw)",475.0,370.793976
+potatoes and grapes,235.0,122.110001
+"salmon, olives, brown rice and cherry tomatoes",500.0,181.954498
+"sweet potato, pineapple and watermelon",260.0,120.560005
+"scrambled eggs, fruit salad and yogurt",410.0,308.602997
+"egg whites, sweet potato, berries, honeydew melons and olive oil",400.0,381.171448
+"apple, broccoli and cauliflower",175.0,142.669998
+"cheese pizza, corn on the cob, pasta, pesto and caesar salad",880.0,393.270325
+"ham, white rice and cauliflower",345.0,122.25
+"olive oil, pumpkin seeds, eggplant and arugula",231.0,174.248901
+"chicken, tuna, parmesan cheese and olives",310.0,709.369019
+apple and noodles,295.0,90.619995
+"beef, cauliflower and mushroom",330.0,370.130035
+"grapes, cherry tomatoes and cantaloupe",185.0,105.879997
+tofu and carrot,160.0,99.754425
+almonds,160.0,296.890015
+"salmon, beef, pasta and brown rice",610.0,767.266785
+pepperoni pizza,900.0,177.659988
+"chicken apple sausage, yam, egg whites, chia seeds and sweet potato",420.0,412.67688
+"carrot, olives, onions, caesar dressing and cherry tomatoes",280.0,147.212189
+"scrambled eggs, bagels, hash browns, cream cheese and honeydew melons",820.0,469.059998
+"salmon, olive oil, brussels sprouts, brown rice and mixed greens",590.0,277.047302
+"chicken, olives, avocado and caesar dressing",490.0,567.580994
+"grilled chicken, cheese pizza and white rice",590.0,685.772949
+chicken,187.0,70.949997
+"scrambled eggs, pineapple, bacon, chia seeds and greek yogurt",476.0,440.69339
+"olive oil, tofu, pumpkin seeds and eggplant",420.0,207.098907
+oatmeal and corn,220.0,128.740005
+"yam, olive oil, sweet potato and cantaloupe",440.0,296.092896
+"scrambled eggs, potatoes and berries",310.0,235.410004
+"pasta, pesto, caesar salad and wheat berry",670.0,126.795876
+"pizza, steak and olive oil",1170.0,553.511841
+"olive oil, pilaf and bulgur",270.0,114.013741
+"salmon, brownies, beef, pasta and cheese pizza",1111.0,1116.391113
+"olive oil, almonds, spinach (raw) and blueberries",250.0,157.878067
+"cheese pizza, pork, caesar salad and quinoa",850.0,461.160156
+"ham, olives and oatmeal",310.0,153.570007
+"eggplant, cauliflower and olive oil",205.0,78.00235
+"brussels sprouts, cantaloupe and bell peppers",150.0,59.099998
+pizza and olive oil,325.0,356.3573
+"fish, carrot and mixed greens",180.0,69.689995
+almonds and grapes,268.0,529.220032
+turkey bacon and olive oil,260.0,428.667786
+"fish, wild rice, olive oil, wheat berry and cauliflower",450.0,251.097473
+"avocado, bread and fish",350.0,234.234009
+"pears, orange and carrot",188.0,202.821503
+"sausage, hash browns and scrambled eggs",600.0,721.365173
+"salmon, olive oil, squash and brown rice",650.0,159.310791
+"steak, chicken, roasted potatoes, cauliflower and olive oil",710.0,634.505066
+"chicken, olives, avocado and broccoli",402.0,377.830017
+"bacon, yam, pineapple, strawberries and olive oil",417.0,140.502548
+"chicken, potatoes and cantaloupe",400.0,253.520004
+"fish, olive oil, white rice, country rice and chicken thighs",640.0,173.791214
+"chicken, olives, parmesan cheese and black beans",360.0,485.674011
+turkey bacon,90.0,87.331001
+"chicken apple sausage, grapes, roasted potatoes and watermelon",500.0,215.359985
+chicken and orange,290.0,281.720001
+"egg whites, sweet potato and olive oil",305.0,132.824387
+olives and brussels sprouts,110.0,103.300003
+"avocado, mixed greens and mushroom",150.0,57.940002
+scrambled eggs and bacon,230.0,290.75
+"olive oil, spinach (raw) and green beans",164.0,180.602646
+wild rice and olive oil,206.0,286.027252
+"chicken, beef and olive oil",480.0,511.614227
+chicken and olive oil,290.0,345.343719
+"pork, fish and olive oil",420.0,331.324493
+"waffles, egg whites and salsa",320.0,497.739014
+"pepperoni pizza, chicken breast and olive oil",626.0,469.186188
+"scrambled eggs, berries, cantaloupe, broccoli and sweet potato",450.0,696.363525
+"chicken thighs, olive oil and chickpeas",555.0,318.482666
+pork and mayonnaise,336.0,407.132263
+"beef, olive oil and carrot",420.0,671.082031
+"chicken, olive oil, millet and green beans",505.0,159.809174
+"fish, olive oil and wheat berry",410.0,211.343994
+chicken apple sausage and raspberries,320.0,92.610001
+"cheese pizza, beef and squash",600.0,317.781311
+"pork, corn on the cob, olive oil, pilaf and bulgur",635.0,416.802032
+"grilled chicken, carrot, bell peppers and onions",320.0,569.417969
+"chicken thighs, fish, couscous, olive oil and white beans",650.0,424.292206
+"fish, white rice, olive oil, country rice and chicken thighs",620.0,145.937561
+"chicken breast, olive oil and squash",340.0,111.832207
+"banana, lemon and cauliflower",140.0,133.559998
+"pork, corn on the cob, tofu, sugar and olive oil",560.0,368.485199
+"chicken, tofu and cucumbers",280.0,130.279999
+"egg whites, sweet potato, chia seeds, blueberries and greek yogurt",388.0,335.944183
+beef and cheese pizza,900.0,331.007507
+"olive oil, figs, brussels sprouts, broccoli and cauliflower",295.0,104.373558
+pepperoni pizza and steak,700.0,645.126465
+"salmon, olive oil, bulgur, brussels sprouts and brown rice",650.0,508.347748
+"chicken, avocado and orange",410.0,159.470001
+pepperoni pizza and brownies,570.0,451.753998
+"quinoa, olive oil, cauliflower and mixed greens",380.0,261.616272
+"cheese pizza, olive oil and caesar salad",565.0,211.78656
+"scrambled eggs, sweet potato and olive oil",400.0,202.2966
+"beef, pineapple and bell peppers",340.0,106.5
+"wild rice, olive oil, honeydew melons, green beans and pumpkin seeds",382.0,181.740845
+pork and chicken breast,262.0,411.151825
+"bean(seed), pineapple and shrimp",460.0,155.600006
+"cheese pizza, pork and sugar",530.0,169.072418
+"roasted potatoes, olive oil, broccoli and arugula",350.0,174.015305
+"wheat berry, olive oil, pecans and raisins",480.0,145.313232
+"cheese pizza, chicken and country rice",677.0,289.192596
+"fish, olive oil and quinoa",405.0,154.317169
+"chicken breast, salmon, mayonnaise and pineapple",496.0,516.089478
+"scrambled eggs, sweet potato and broccoli",334.0,681.79126
+"brussels sprouts, cauliflower and bell peppers",130.0,81.310005
+"bean(seed), white rice and shrimp",480.0,224.75
+"succotash, roasted potatoes, berries, granola and honeydew melons",600.0,240.695312
+chicken thighs and quinoa,540.0,442.728943
+"chicken apple sausage, yam, egg whites, sweet potato and broccoli",420.0,285.670135
+"olive oil, almonds, spinach (raw), green beans and blueberries",384.0,152.320267
+"cheese pizza, beef, caesar salad and vinaigrette",780.0,276.044403
+"granola, berries, cantaloupe, vinaigrette and mixed greens",310.0,90.76355
+tofu,288.0,48.91
+"chicken, olives, caesar dressing and carrot",390.0,616.771973
+"caesar salad, brussels sprouts and olive oil",370.0,73.669174
+"bacon, kiwi and broccoli",187.0,149.529999
+"egg whites, yam, olive oil and sweet potato",360.0,229.248688
+"chicken, beef, tofu and olive oil",480.0,951.840942
+"almonds, deprecated and mixed greens",185.0,203.699997
+"tofu, olive oil, brussels sprouts and bulgur",430.0,298.380798
+"black beans, cheese, tortilla chips, spinach (raw) and corn",509.0,55.025124
+"chicken, olive oil, cauliflower, eggplant and squash",380.0,357.472565
+"pork, chicken breast, green beans and olive oil",480.0,277.656799
+"vinaigrette, feta cheese, lettuce and olives",210.0,50.792469
+"cheese pizza, chicken, country rice and caesar salad",820.0,350.566833
+"pineapple, chicken apple sausage, yam, egg whites and chia seeds",420.0,485.67688
+pears and strawberries,155.0,139.810013
+pork and white rice,450.0,227.242706
+pork and mayonnaise,370.0,94.465088
+"tomatoes, bell peppers and mixed greens",60.0,73.239998
+"olives, bell peppers and lettuce",86.0,59.450005
+"beef, berries and apple",405.0,175.940002
+ground turkey and corn on the cob,270.0,229.530243
+"pepperoni pizza, olive oil, steak and caesar salad",940.0,326.888977
+beef and white rice,450.0,407.633148
+almonds and apple,260.0,887.823059
+chicken breast and parmesan cheese,220.0,171.53511
+"tuna, bell peppers, onions and carrot",220.0,365.630005
+"scrambled eggs, sweet potato, cantaloupe, brussels sprouts and olive oil",510.0,268.832642
+"pork, cheese pizza, corn on the cob, pasta and pesto",915.0,645.801453
+"eggs, turkey bacon, sweet potato and watermelon",400.0,387.869995
+"chicken breast, fish, olives, olive oil and white beans",520.0,311.142975
+"beef, cheese pizza, broccoli and olive oil",475.0,372.230896
+pork and white rice,420.0,224.987503
+"broccoli, squash, cucumbers and zucchini",85.0,35.230003
+"egg whites, sweet potato, berries, salsa and olive oil",250.0,433.749969
+"cheese pizza, caesar salad, chicken and brussels sprouts",780.0,260.434052
+"cheese pizza, roasted potatoes and chicken thighs",700.0,334.945831
+"chicken, caesar salad, olive oil and green beans",430.0,306.333679
+"olives, orange and carrot",120.0,102.800003
+"berries, bell peppers and tomatoes",122.0,66.300003
+"beef, orange and cheese",452.0,324.5
+"cheese pizza, caesar salad and pineapple",650.0,240.020004
+"scrambled eggs, yam, olive oil, sweet potato and egg whites",450.0,372.070038
+"corn on the cob, cheese pizza, chicken, olive oil and pork",790.0,532.508606
+"chicken, olives and kimchi",242.0,141.699997
+beef and millet,450.0,435.493286
+"sweet potato, bacon and berries",300.0,196.820007
+"bread, pineapple and tomatoes",264.0,138.938004
+"sausage, hash browns, egg whites and pineapple",410.0,762.381958
+"scrambled eggs, olive oil, berries and broccoli",280.0,354.044922
+beef and olive oil,340.0,418.952423
+"egg whites, cantaloupe and pineapple",146.0,322.679993
+"tortilla, fish and cauliflower",300.0,138.869995
+"chicken, olive oil and roasted potatoes",460.0,273.63089
+"hash browns, sausage, scrambled eggs and granola",690.0,1268.157349
+"bacon, potatoes and tomatoes",270.0,166.580002
+"beef, fish, olive oil, cauliflower and lentils",470.0,385.773926
+"chicken, roasted potatoes and quinoa",476.0,920.120422
+"scrambled eggs, sweet potato, cantaloupe, olive oil and broccoli",430.0,262.261963
+"pork, broccoli, olive oil and squash",410.0,279.708801
+"fish, olive oil, roasted potatoes, wheat berry and eggplant",560.0,385.402527
+steak and wheat berry,620.0,324.913513
+"fish, olive oil and wheat berry",460.0,126.154343
+noodles and ham,480.0,131.179993
+"chicken thighs, cheese, tortilla and caesar salad",660.0,373.507965
+"corn on the cob, apple, cauliflower and cantaloupe",264.0,204.970001
+pepperoni pizza and chicken breast,475.0,365.269897
+"chicken, pork, corn on the cob and olive oil",480.0,257.398834
+roast chicken and steak,470.0,506.355377
+"berries, shrimp and broccoli",200.0,99.040001
+"chicken, tofu, olive oil and millet",567.0,381.661957
+"pizza, beef and olive oil",1100.0,504.820892
+sweet potato and olive oil,250.0,89.964882
+"chicken, corn on the cob and olive oil",383.0,179.138412
+chicken and mixed greens,200.0,241.169998
+"salmon, wheat berry, olive oil and brown rice",520.0,498.821136
+"tofu, honeydew melons, fish, asparagus and cherry tomatoes",350.0,117.181976
+"roasted potatoes, broccoli and olive oil",310.0,130.981018
+"pork, pizza, fish, sugar and olive oil",1000.0,555.712891
+"chicken thighs, caesar salad and quinoa",540.0,160.845459
+beef and cheese pizza,850.0,733.018555
+"chicken, parmesan cheese and olives",320.0,464.117981
+cheese pizza and chicken,450.0,485.186493
+nuts and tortilla,320.0,273.899994
+lemon,17.0,35.669998
+shrimp and orange,201.0,91.800003
+chicken apple sausage and egg whites,320.0,101.239998
+"olive oil, broccoli, bulgur and squash",350.0,133.659988
+"bagels, berries, sweet potato and cream cheese",530.0,352.820007
+"tuna, almonds, olives and carrot",260.0,413.942017
+"sausage, potatoes and grapes",510.0,584.526001
+"olives, tofu and cauliflower",250.0,103.279999

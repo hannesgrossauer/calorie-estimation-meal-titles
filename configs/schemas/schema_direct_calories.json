@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "total_calories": {
+      "type": "number",
+      "minimum": 0
+    }
+  },
+  "required": ["total_calories"]
+}
