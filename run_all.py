@@ -31,8 +31,8 @@ def main() -> None:
     run("src/data_audits.py")
     run("src/split_data.py")
     run("src/pred_baseline.py")
-    run("src/llm_runner.py", "--input", "data/processed/food_master.csv", "--variant", "direct", "--limit", "1000")
-    run("src/llm_runner.py", "--input", "data/processed/food_master.csv", "--variant", "pipeline", "--limit", "1000")
+    run("src/llm_runner.py", "--input", "data/processed/nutrition5k_master.csv", "--variant", "direct")
+    run("src/llm_runner.py", "--input", "data/processed/nutrition5k_master.csv", "--variant", "pipeline")
 
     print("\nAll steps completed.")
 
